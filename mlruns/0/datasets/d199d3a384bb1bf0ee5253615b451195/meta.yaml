@@ -1,0 +1,12 @@
+digest: f77c24d3
+name: dataset
+profile: '{"num_rows": 800, "num_elements": 5600}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "gender", "required": true},
+  {"type": "long", "name": "race/ethnicity", "required": true}, {"type": "long", "name":
+  "parental level of education", "required": true}, {"type": "long", "name": "lunch",
+  "required": true}, {"type": "long", "name": "test preparation course", "required":
+  true}, {"type": "long", "name": "reading score", "required": true}, {"type": "long",
+  "name": "writing score", "required": true}]}'
+source: '{"tags": {"mlflow.user": "sahib", "mlflow.source.name": "gna.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "d43295c125bd6855fbf340c189f36642c153f9dd"}}'
+source_type: code

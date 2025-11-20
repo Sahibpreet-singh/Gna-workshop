@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f4c7d277ca84f778ebda0634f6c2b9f/artifacts
+end_time: 1763620375633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f4c7d277ca84f778ebda0634f6c2b9f
+run_name: skittish-gnat-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763620368823
+status: 3
+tags: []
+user_id: sahib
